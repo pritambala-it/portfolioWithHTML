@@ -67,8 +67,7 @@
 
 #box601 {
     height: 50px;
-    width: 1380px;
-    text-align: center;
+    /* width: 1380px; */
     background-color: #4E56C0;
     position: fixed;
     bottom:0;
